@@ -2,7 +2,7 @@ import React from 'react'
 
 function Header() {
   return (
-    <div>Header Paithiyam</div>
+    <div>Header Paithiyamdi </div>
   )
 }
 
