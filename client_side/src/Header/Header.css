@@ -1,7 +1,11 @@
 .header_main{
-    background-color:greenyellow;
     display: flex;
     justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+
 }
 .header_center{
     width: 40%;
