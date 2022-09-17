@@ -4,7 +4,7 @@
     position: sticky;
     top: 0;
     z-index: 100;
-    background-color: white;
+    background-color: rgb(243, 235, 235);
 
 }
 .header_center{
@@ -21,7 +21,9 @@ p{
     font-size: 20px;
     padding-left: 10px;
 }
-
+.hi{
+    color: red;
+}
 .header_left{
     display: flex;
 }
