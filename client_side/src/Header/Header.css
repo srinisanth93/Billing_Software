@@ -1,7 +1,11 @@
 .header_main{
-    background-color:greenyellow;
     display: flex;
     justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background-color: rgb(243, 235, 235);
+
 }
 .header_center{
     width: 40%;
@@ -17,7 +21,9 @@ p{
     font-size: 20px;
     padding-left: 10px;
 }
-
+.hi{
+    color: red;
+}
 .header_left{
     display: flex;
 }
